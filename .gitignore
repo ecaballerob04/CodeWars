@@ -3,6 +3,9 @@
 .idea
 .project
 .classpath
+.settings
 
 # Ignore Gradle build output directory
 build
+lib/bin/
+lib/.settings
